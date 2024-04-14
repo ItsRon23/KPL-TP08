@@ -12,3 +12,4 @@ C:\Users\Aaron\source\repos\tpmodul8_1302223083\obj\Debug\net8.0\refint\tpmodul8
 C:\Users\Aaron\source\repos\tpmodul8_1302223083\obj\Debug\net8.0\tpmodul8_1302223083.pdb
 C:\Users\Aaron\source\repos\tpmodul8_1302223083\obj\Debug\net8.0\tpmodul8_1302223083.genruntimeconfig.cache
 C:\Users\Aaron\source\repos\tpmodul8_1302223083\obj\Debug\net8.0\ref\tpmodul8_1302223083.dll
+C:\Users\Aaron\source\repos\tpmodul8_1302223083\obj\Debug\net8.0\tpmodul8_1302223083.sourcelink.json
